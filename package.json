@@ -105,6 +105,7 @@
       "pre-commit": "lint-staged"
     }
   },
+  "version": "1.0.0",
   "lint-staged": {
     "*.{js,md,css,scss,yaml,yml}": [
       "prettier --write",
